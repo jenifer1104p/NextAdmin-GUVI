@@ -1,0 +1,16 @@
+body{
+    background:#f4f7fc;
+}
+
+.register-card{
+    max-width:450px;
+    margin:auto;
+}
+
+.card{
+    border-radius:15px;
+}
+
+button{
+    height:45px;
+}

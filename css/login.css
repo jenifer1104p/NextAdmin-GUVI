@@ -1,0 +1,17 @@
+body{
+    background:#eef3ff;
+}
+
+.login-card{
+    max-width:420px;
+    margin:auto;
+    border-radius:15px;
+}
+
+.card{
+    margin-top:100px;
+}
+
+button{
+    height:45px;
+}
