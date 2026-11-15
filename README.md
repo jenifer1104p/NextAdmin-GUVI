@@ -195,10 +195,8 @@ Add screenshots of:
 
 # 👩‍💻 Author
 
-**Jemima Mary P**
+**Jenifer P**
 
-GitHub:
-(Add your GitHub repository link here)
 
 ---
 
